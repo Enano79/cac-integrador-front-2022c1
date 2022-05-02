@@ -1,0 +1,22 @@
+.text-right
+{
+    text-align: right;
+}
+
+.image-back
+{
+    background-image:  url('./img/ba1.jpg') ;
+    height: 75vh;
+}
+.bg-verde-plomo
+{
+    color: white;
+    background-color: #17A2B9;
+}
+
+.myRight {
+    text-align: right;
+    margin-right: 150px;
+    filter: brightness(150%);
+    margin-top: 0px;
+  }
